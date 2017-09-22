@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CustomToolbar</string>
+
+    <string-array name="names">
+        <item>Josh</item>
+        <item>Sara</item>
+        <item>Steve</item>
+        <item>Joe</item>
+        <item>Dave</item>
+        <item>Mike</item>
+        <item>Lisa</item>
+    </string-array>
+
+
+</resources>
